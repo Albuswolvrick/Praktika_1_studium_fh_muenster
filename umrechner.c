@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <errno.h>
+#include <stdlib.h> // used them for simplesetie of usage at the outgiving
+#include <errno.h> // better error mesages nice to have not neseesarry need to remove the erno notes should still work
 
 /* Liest eine ganze Zeile und wandelt sie in eine Zahl um.
    Bei leerer oder ungueltiger Eingabe wird 0 zurueckgegeben. */

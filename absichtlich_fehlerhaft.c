@@ -1,7 +1,3 @@
-/*
-   NUR ZUR FEHLERSUCHE: Diese Datei enthaelt absichtlich drei Fehler.
-   Sie ist nicht die abzugebende, funktionierende Version.
-*/
 #include <stdio.h>
 
 int main(void)
